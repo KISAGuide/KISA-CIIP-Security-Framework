@@ -1,4 +1,5 @@
-`
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/36d2e29c-3a20-4bdf-969c-e885fef4ca19" />
+
 
 # CIIP Security Framework
 
